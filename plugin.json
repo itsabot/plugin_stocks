@@ -1,6 +1,6 @@
 {
 	"Name": "Stocks",
 	"Maintainer": "Evan Tann <evan@itsabot.org>",
-	"Description": "Find information about stocks",
+	"Description": "Find information about stocks including current prices.",
 	"Icon": "https://cdn.rawgit.com/itsabot/plugin_stocks/master/icon.svg"
 }

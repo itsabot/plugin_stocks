@@ -33,7 +33,6 @@ func TestMain(m *testing.M) {
 
 func TestKWGetStockDetails(t *testing.T) {
 	testReq(t, "How's the AAPL stock?", "is trading at")
-	cleanup()
 	testReq(t, "What's the share price for GOOG?", "is trading at")
 }
 
